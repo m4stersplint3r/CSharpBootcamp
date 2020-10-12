@@ -1,0 +1,13 @@
+D:\Bootcamp\Day1_RoomCalculator\bin\Debug\netcoreapp3.1\Day1_RoomCalculator.exe
+D:\Bootcamp\Day1_RoomCalculator\bin\Debug\netcoreapp3.1\Day1_RoomCalculator.deps.json
+D:\Bootcamp\Day1_RoomCalculator\bin\Debug\netcoreapp3.1\Day1_RoomCalculator.runtimeconfig.json
+D:\Bootcamp\Day1_RoomCalculator\bin\Debug\netcoreapp3.1\Day1_RoomCalculator.runtimeconfig.dev.json
+D:\Bootcamp\Day1_RoomCalculator\bin\Debug\netcoreapp3.1\Day1_RoomCalculator.dll
+D:\Bootcamp\Day1_RoomCalculator\bin\Debug\netcoreapp3.1\Day1_RoomCalculator.pdb
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.csprojAssemblyReference.cache
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.AssemblyInfoInputs.cache
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.AssemblyInfo.cs
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.dll
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.pdb
+D:\Bootcamp\Day1_RoomCalculator\obj\Debug\netcoreapp3.1\Day1_RoomCalculator.genruntimeconfig.cache

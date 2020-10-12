@@ -1,0 +1,13 @@
+D:\Bootcamp\Day1_UserInformationInput\bin\Debug\netcoreapp3.1\Day1_UserInformationInput.exe
+D:\Bootcamp\Day1_UserInformationInput\bin\Debug\netcoreapp3.1\Day1_UserInformationInput.deps.json
+D:\Bootcamp\Day1_UserInformationInput\bin\Debug\netcoreapp3.1\Day1_UserInformationInput.runtimeconfig.json
+D:\Bootcamp\Day1_UserInformationInput\bin\Debug\netcoreapp3.1\Day1_UserInformationInput.runtimeconfig.dev.json
+D:\Bootcamp\Day1_UserInformationInput\bin\Debug\netcoreapp3.1\Day1_UserInformationInput.dll
+D:\Bootcamp\Day1_UserInformationInput\bin\Debug\netcoreapp3.1\Day1_UserInformationInput.pdb
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.csprojAssemblyReference.cache
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.AssemblyInfoInputs.cache
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.AssemblyInfo.cs
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.dll
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.pdb
+D:\Bootcamp\Day1_UserInformationInput\obj\Debug\netcoreapp3.1\Day1_UserInformationInput.genruntimeconfig.cache

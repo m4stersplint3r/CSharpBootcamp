@@ -1,0 +1,13 @@
+D:\Bootcamp\Day1_ConsoleApp\bin\Debug\netcoreapp3.1\Day1_ConsoleApp.exe
+D:\Bootcamp\Day1_ConsoleApp\bin\Debug\netcoreapp3.1\Day1_ConsoleApp.deps.json
+D:\Bootcamp\Day1_ConsoleApp\bin\Debug\netcoreapp3.1\Day1_ConsoleApp.runtimeconfig.json
+D:\Bootcamp\Day1_ConsoleApp\bin\Debug\netcoreapp3.1\Day1_ConsoleApp.runtimeconfig.dev.json
+D:\Bootcamp\Day1_ConsoleApp\bin\Debug\netcoreapp3.1\Day1_ConsoleApp.dll
+D:\Bootcamp\Day1_ConsoleApp\bin\Debug\netcoreapp3.1\Day1_ConsoleApp.pdb
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.csprojAssemblyReference.cache
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.AssemblyInfoInputs.cache
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.AssemblyInfo.cs
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.dll
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.pdb
+D:\Bootcamp\Day1_ConsoleApp\obj\Debug\netcoreapp3.1\Day1_ConsoleApp.genruntimeconfig.cache
