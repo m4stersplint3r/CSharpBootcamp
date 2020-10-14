@@ -1,0 +1,13 @@
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.csprojAssemblyReference.cache
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.AssemblyInfoInputs.cache
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.AssemblyInfo.cs
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day2_Extra_GradeConverter\bin\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.exe
+D:\Bootcamp\Day2_Extra_GradeConverter\bin\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.deps.json
+D:\Bootcamp\Day2_Extra_GradeConverter\bin\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.runtimeconfig.json
+D:\Bootcamp\Day2_Extra_GradeConverter\bin\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.runtimeconfig.dev.json
+D:\Bootcamp\Day2_Extra_GradeConverter\bin\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.dll
+D:\Bootcamp\Day2_Extra_GradeConverter\bin\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.pdb
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.dll
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.pdb
+D:\Bootcamp\Day2_Extra_GradeConverter\obj\Debug\netcoreapp3.1\Day2_Extra_GradeConverter.genruntimeconfig.cache

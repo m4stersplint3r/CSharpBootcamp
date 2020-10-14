@@ -1,0 +1,13 @@
+D:\Bootcamp\Day2_Examples\bin\Debug\netcoreapp3.1\Day2_Examples.exe
+D:\Bootcamp\Day2_Examples\bin\Debug\netcoreapp3.1\Day2_Examples.deps.json
+D:\Bootcamp\Day2_Examples\bin\Debug\netcoreapp3.1\Day2_Examples.runtimeconfig.json
+D:\Bootcamp\Day2_Examples\bin\Debug\netcoreapp3.1\Day2_Examples.runtimeconfig.dev.json
+D:\Bootcamp\Day2_Examples\bin\Debug\netcoreapp3.1\Day2_Examples.dll
+D:\Bootcamp\Day2_Examples\bin\Debug\netcoreapp3.1\Day2_Examples.pdb
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.csprojAssemblyReference.cache
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.AssemblyInfoInputs.cache
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.AssemblyInfo.cs
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.dll
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.pdb
+D:\Bootcamp\Day2_Examples\obj\Debug\netcoreapp3.1\Day2_Examples.genruntimeconfig.cache
